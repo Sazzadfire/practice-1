@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+form {
+  margin-top: 50px;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#love-result {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+  
